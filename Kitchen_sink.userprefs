@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kitchen_sink.Touch/AppDelegate.cs">
+    <Files>
+      <File FileName="Xibless/Main.cs" Line="14" Column="7" />
+      <File FileName="Kitchen_sink.Touch/AppDelegate.cs" Line="35" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Kitchen_sink.Touch" expanded="True">
+            <Node name="AppDelegate.cs" selected="True" />
+          </Node>
+          <Node name="Xibless" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xibless", "Xibless\Xibless.csproj", "{3B7D032A-99AC-4442-AEDE-E85F104394E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitchen_sink.Touch", "Kitchen_sink.Touch\Kitchen_sink.Touch.csproj", "{9457D4D5-B89A-420F-8BD1-5B32075EFD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorizontalTableView", "HorizontalTableView\HorizontalTableView.csproj", "{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Release|iPhone.Build.0 = Release|iPhone
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1DC12A57-EAA6-48B8-ACC6-53F4DFE8AE46}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Release|iPhone.Build.0 = Release|iPhone
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3B7D032A-99AC-4442-AEDE-E85F104394E5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Release|iPhone.Build.0 = Release|iPhone
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9457D4D5-B89A-420F-8BD1-5B32075EFD53}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HorizontalTableView\HorizontalTableView.csproj
+	EndGlobalSection
+EndGlobal
